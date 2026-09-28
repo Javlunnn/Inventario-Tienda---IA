@@ -1,0 +1,5 @@
+# Dependencias para Sistema Punto de Venta e Inventario (Tkinter + SQLite)
+# Las librerías principales (tkinter, sqlite3, hashlib, csv, dataclasses) forman parte de la biblioteca estándar de Python 3.10+.
+
+# Para compilación del ejecutable (.exe standalone)
+pyinstaller>=6.0.0
